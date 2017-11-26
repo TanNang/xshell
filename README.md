@@ -1,3 +1,2 @@
-# xshell5
-
-xshell5 monokai配色方案 (配合vim molokai主题效果更佳)
+# Xshell5 - monokai主题
+Xshell5 -> 工具 -> 配色方案 -> 导入主题即可。
